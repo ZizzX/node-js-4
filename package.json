@@ -1,0 +1,16 @@
+{
+  "name": "dashboard-api",
+  "version": "1.0.0",
+  "description": "Node.js lesson-4, api with express.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isapov Aziz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
